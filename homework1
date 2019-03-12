@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html> 
+<head> 
+<meta charset="utf-8"
+<meta name="viewpoin" content="width=device=width">
+<title> Links </title>
+<p> <a href="https://github.com/ShahroozS/thinkfullessons/blob/master/frontendfirststeps"<a> Github </a> </p>
+<p> <a href="https://repl.it/@shahroozsh/Front-end-first-steps" <a> Repl.it </a> </p> 
+<h2> Questions </h2> 
+<u1> 
+<Li> What are the main differences between the older versions of HTML5 and CSS3? </Li>
+<Li> I don't understand the chartset and viewpoint functionality in regards to this page. </Li>
+<Li>  Is there a list of colors to refer to in the future? Does the list change? </Li>
+<Li> How important is spacing within brackets? </Li>
+<Li> How do you change your font? How are newer fonts created? </Li>
+</body>
+</html>
