@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>About me</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <h1>Sally Student</h1>
+    <p> I'm an aspiring full stack web developer. I love cats. Coding, and crocheting. </p> 
+    <h2> Skills </h2> 
+    <u1> 
+      <Li> Html </Li>
+      <li> CSS </li>
+      <li> Javascript </li>
+      <Li> jQuery </li>
+    </u1>
+    <h2> Contact Info </h2>
+    <a>
+      <h2>
+      <p>Twitter: <a href="https://twitter.com/sallyStudent">
+      @sallyStudent</a></p>
+  </body>
+</html>
